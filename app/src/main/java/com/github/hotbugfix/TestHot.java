@@ -2,6 +2,6 @@ package com.github.hotbugfix;
 
 public class TestHot {
     public static String getBackgroundText() {
-        return "我是修复后的代码（热修复完成）";
+        return "我是有Bug的代码（会崩溃）";
     }
 }
